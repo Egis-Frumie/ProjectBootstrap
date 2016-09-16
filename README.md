@@ -58,7 +58,7 @@ System/
 
 ## Building
 
-Ue the pt cli:
+Use the pt cli:
 `pt build` OR
 `pt build --watch`
 
